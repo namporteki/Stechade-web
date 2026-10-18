@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/">
+    <title>Stechade</title>
+    <link href="https://www.stechade.com/feed.xml" rel="self" />
+    <link href="https://www.stechade.com" />
+    <updated>2026-10-18T11:22:18+02:00</updated>
+    <author>
+        <name>Alvaro Martin Guerrero</name>
+    </author>
+    <id>https://www.stechade.com</id>
+
+    <entry>
+        <title>Understanding trends with data</title>
+        <author>
+            <name>Alvaro Martin Guerrero</name>
+        </author>
+        <link href="https://www.stechade.com/understanding-trends-with-data/"/>
+        <id>https://www.stechade.com/understanding-trends-with-data/</id>
+
+        <updated>2026-10-18T11:22:18+02:00</updated>
+            <summary></summary>
+        <content></content>
+    </entry>
+</feed>

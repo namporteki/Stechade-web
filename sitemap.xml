@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="https://www.stechade.com/sitemap.xsl"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
+<url>
+<loc>https://www.stechade.com/</loc>
+</url>
+<url>
+<loc>https://www.stechade.com/alentejo-the-beauty-of-the-land/</loc>
+<lastmod>2026-10-18T12:32:15+02:00</lastmod>
+</url>
+<url>
+<loc>https://www.stechade.com/how/</loc>
+<lastmod>2026-10-18T12:33:17+02:00</lastmod>
+</url>
+<url>
+<loc>https://www.stechade.com/understanding-trends-with-data/</loc>
+<lastmod>2026-10-18T11:22:18+02:00</lastmod>
+</url>
+<url>
+<loc>https://www.stechade.com/what/</loc>
+<lastmod>2026-10-18T12:32:26+02:00</lastmod>
+</url>
+<url>
+<loc>https://www.stechade.com/why/</loc>
+<lastmod>2026-10-18T12:34:29+02:00</lastmod>
+</url>
+</urlset>

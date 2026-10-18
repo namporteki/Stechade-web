@@ -1,0 +1,25 @@
+{
+    "version": "https://jsonfeed.org/version/1",
+    "title": "Stechade",
+    "description": "",
+    "home_page_url": "https://www.stechade.com",
+    "feed_url": "https://www.stechade.com/feed.json",
+    "user_comment": "",
+    "author": {
+        "name": "Alvaro Martin Guerrero"
+    },
+    "items": [
+        {
+            "id": "https://www.stechade.com/understanding-trends-with-data/",
+            "url": "https://www.stechade.com/understanding-trends-with-data/",
+            "title": "Understanding trends with data",
+            "author": {
+                "name": "Alvaro Martin Guerrero"
+            },
+            "tags": [
+            ],
+            "date_published": "2026-10-18T11:22:18+02:00",
+            "date_modified": "2026-10-18T11:22:18+02:00"
+        }
+    ]
+}
