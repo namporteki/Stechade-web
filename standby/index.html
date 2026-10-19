@@ -1,0 +1,43 @@
+<!doctype html>
+<html lang="es">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1">
+<title>STECHADE · Coming Soon</title>
+<meta name="description" content="STECHADE · Próximamente">
+<meta name="robots" content="noindex, nofollow">
+<link rel="preload" as="image" href="fondo.jpg">
+<style>
+  *{margin:0;padding:0;box-sizing:border-box}
+  html,body{height:100%}
+  body{
+    min-height:100vh;min-height:100svh;
+    display:flex;flex-direction:column;align-items:center;justify-content:center;
+    color:#fff;text-align:center;
+    font-family:"Segoe UI",Helvetica,Arial,sans-serif;
+    background:#2f3a24 url("fondo.jpg") center/cover no-repeat;
+    position:relative;padding:24px;
+  }
+  body::before{
+    content:"";position:absolute;inset:0;
+    background:linear-gradient(180deg,rgba(0,0,0,.25) 0%,rgba(0,0,0,.45) 55%,rgba(0,0,0,.65) 100%);
+  }
+  main{position:relative;display:flex;flex-direction:column;align-items:center;gap:2.2rem}
+  .logo{width:min(440px,78vw);height:auto;filter:drop-shadow(0 2px 12px rgba(0,0,0,.35))}
+  h1{font-weight:300;font-size:clamp(1.6rem,4.5vw,2.8rem);letter-spacing:.35em;text-transform:uppercase;
+     padding-left:.35em;text-shadow:0 2px 14px rgba(0,0,0,.45)}
+  .rule{width:56px;height:1px;background:rgba(255,255,255,.75)}
+  p{font-weight:300;font-size:clamp(.95rem,2.2vw,1.1rem);letter-spacing:.12em;opacity:.9}
+  footer{position:absolute;bottom:18px;left:0;right:0;font-size:.75rem;letter-spacing:.1em;opacity:.7}
+</style>
+</head>
+<body>
+  <main>
+    <img class="logo" src="logo.png" alt="STECHADE">
+    <h1>Coming Soon</h1>
+    <span class="rule" aria-hidden="true"></span>
+    <p>Próximamente</p>
+  </main>
+  <footer>© STECHADE 2026</footer>
+</body>
+</html>
